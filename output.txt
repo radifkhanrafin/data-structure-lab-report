@@ -1,0 +1,3 @@
+Output of the list: 10 70 
+Output of the list: 10 
+Output of the list: Empty Node.
